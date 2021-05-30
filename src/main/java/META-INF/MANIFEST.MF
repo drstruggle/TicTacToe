@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Main-Class: com.slemmer.Main
+Class-Path: javafx-swing-16-win.jar javafx-media-16.jar javafx-graphics-
+ 16.jar javafx-media-16-win.jar javafx-fxml-16-win.jar javafx-controls-1
+ 6.jar javafx-base-16.jar javafx-controls-16-win.jar javafx-web-16-win.j
+ ar javafx-graphics-16-win.jar javafx-fxml-16.jar javafx-swing-16.jar ja
+ vafx-base-16-win.jar javafx-web-16.jar
+

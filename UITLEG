@@ -1,0 +1,16 @@
+mvn clean javafx:jlink
+--------------------------
+cmd
+cd C:\Users\daves\OneDrive\Design Dev\Java\TestNewFxProjectWithMaven\target\TestNewFxProjectWithMaven\bin
+launcher
+
+
+
+DIT WERKT EN LEVERT EEN FAT JAR
+
+assemby:
+-------------
+mvn package assembly:single
+
+cd C:\Users\daves\OneDrive\Design Dev\Java\TestNewFxProjectWithMaven2\target
+java -jar TestNewFxProjectWithMaven-1.0-jar-with-dependencies.jar
